@@ -1,0 +1,17 @@
+{
+  "orbit_drop": {
+    "best_pct": 100.0,
+    "completed": true,
+    "attempts": 4
+  },
+  "asteroid_belt": {
+    "best_pct": 75.3,
+    "completed": false,
+    "attempts": 2
+  },
+  "solar_flare": {
+    "best_pct": 100.0,
+    "completed": true,
+    "attempts": 3
+  }
+}

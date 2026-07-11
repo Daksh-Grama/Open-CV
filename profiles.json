@@ -1,0 +1,87 @@
+{
+  "profiles": {
+    "Player": {
+      "name": "Player",
+      "created_at": "2026-07-11T10:31:00.152440+00:00",
+      "cumulative_score": 0,
+      "levels": {
+        "orbit_drop": {
+          "best_pct": 100.0,
+          "completed": true,
+          "attempts": 4,
+          "best_score": 0
+        },
+        "asteroid_belt": {
+          "best_pct": 75.3,
+          "completed": false,
+          "attempts": 2,
+          "best_score": 0
+        },
+        "solar_flare": {
+          "best_pct": 100.0,
+          "completed": true,
+          "attempts": 3,
+          "best_score": 0
+        }
+      },
+      "seen_features": [],
+      "tutorial_completed": false,
+      "currency": 10000,
+      "lives": 3,
+      "lives_reset_at": "2026-07-12T10:31:00.152453+00:00",
+      "cosmetics_owned": [
+        "default_skin",
+        "default_death"
+      ],
+      "cosmetics_equipped": {
+        "skin": "default_skin",
+        "death_fx": "default_death"
+      }
+    },
+    "Daksh": {
+      "name": "Daksh",
+      "created_at": "2026-07-11T10:31:42.607251+00:00",
+      "cumulative_score": 48219,
+      "levels": {
+        "tutorial": {
+          "best_pct": 100.0,
+          "completed": true,
+          "attempts": 3,
+          "best_score": 12437
+        },
+        "singularity": {
+          "best_pct": 100.0,
+          "completed": true,
+          "attempts": 1,
+          "best_score": 16081
+        },
+        "orbit_drop": {
+          "best_pct": 69.2,
+          "completed": false,
+          "attempts": 2,
+          "best_score": 8371
+        }
+      },
+      "seen_features": [
+        "boost_orb",
+        "elevated_ledge",
+        "warp_portal",
+        "ledge"
+      ],
+      "tutorial_completed": true,
+      "currency": 10000,
+      "lives": 0,
+      "lives_reset_at": "2026-07-12T10:31:42.607269+00:00",
+      "cosmetics_owned": [
+        "default_skin",
+        "default_death"
+      ],
+      "cosmetics_equipped": {
+        "skin": "default_skin",
+        "death_fx": "default_death"
+      },
+      "last_level_key": "orbit_drop"
+    }
+  },
+  "last_active": "Daksh"
+}
