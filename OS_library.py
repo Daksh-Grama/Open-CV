@@ -1,0 +1,11 @@
+import os
+# os.mkdir("Daksh")
+# print(os.getcwd())
+# os.rename("adjksDKS.txt", "hi.txt")
+print(os.listdir())
+# os.rmdir("Anuj")
+# os.remove("hi.txt")
+os.chdir("/Users/BrahmA_1/Downloads/Open-CV-main/Lesson5")
+# os.mkdir("Anuj")
+os.rmdir("Anuj")
+print(os.getcwd())
